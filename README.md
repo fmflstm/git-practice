@@ -1,5 +1,5 @@
 #Git Practice
-This repository if for practicing Github.
+This repository is for practicing Github.
 ##Programs
 -hello.c
 -calculator.c
